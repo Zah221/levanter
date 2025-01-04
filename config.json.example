@@ -1,10 +1,10 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_429911f77416d4101ace4c2f2610b85f8",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
     "STICKER_PACKNAME": "❤️,LyFE",
-    "ALWAYS_ONLINE": "false",
+    "ALWAYS_ONLINE": "true",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
     "FORCE_LOGOUT": "false",
@@ -19,7 +19,7 @@
     "AJOIN": "false",
     "GPT": "free",
     "MODEL": "gpt-3.5-turbo",
-    "ANTI_DELETE": "null",
+    "ANTI_DELETE": "true",
     "PERSONAL_MESSAGE": "null",
     "DISABLE_START_MESSAGE": "false",
     "WARN_MESSAGE": "⚠️WARNING⚠️\n*User :* &mention\n*Warn :* &warn\n*Remaining :* &remaining",
